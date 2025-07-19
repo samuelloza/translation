@@ -1,4 +1,3 @@
 .dockerignore
 .git
 venv
-secrets/google_service_account.json
